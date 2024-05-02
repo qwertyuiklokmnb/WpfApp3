@@ -1,0 +1,16 @@
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\View\MainWindow.g.cs
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\ViewModel\App.g.cs
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\View\MainWindow.baml
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\yeliz_znsdc1y\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
